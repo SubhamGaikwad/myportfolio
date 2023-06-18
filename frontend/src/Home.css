@@ -1,5 +1,5 @@
 .home__bg{
-    background-image: url(./img/back_2.jpg);
+    /* background-image: url(./img/back_2.jpg); */
     background-color: #010101;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -18,14 +18,16 @@ h1.home__text{
     font-size: 18px;
     font-weight: 400;
     letter-spacing: 3px;
-    color: rgba(254, 254, 254, 0.75)!important;
+    color: white !important;
+   
 }
 h2.home__text{
     font-size: 54px;
     line-height: 54px;
     font-weight: 800;
     font-family: Montserrat,sans-serif;
-    color: rgba(153, 19, 215, 0.75)!important;
+    color: rgba(255, 255, 255, 0.75)!important;
+    
 }
 h3.home__text{
     font-size: 50px;
@@ -42,6 +44,7 @@ h4.home__text{
     color: rgba(36, 10, 115, 0.75)!important;
     
 }
+
 .header{
     transition: .4s all ease;
 }

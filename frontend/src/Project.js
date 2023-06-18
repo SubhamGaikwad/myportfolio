@@ -52,7 +52,10 @@ function Project() {
               <div className="project__meta absolute">
                 <h5 className="project__text">Development</h5>
                 <h4 className="project__text">ToDo App</h4>
-                <a href="#" className="project__btn">
+                <a
+                  href="https://banitotoapp.onrender.com/"
+                  className="project__btn"
+                >
                   View Details
                 </a>
               </div>
@@ -69,8 +72,11 @@ function Project() {
               </div>
               <div className="project__meta absolute">
                 <h5 className="project__text">Development</h5>
-                <h4 className="project__text">Coming soon</h4>
-                <a href="#" className="project__btn">
+                <h4 className="project__text">Book Store App</h4>
+                <a
+                  href="https://furation-store.onrender.com"
+                  className="project__btn"
+                >
                   View Details
                 </a>
               </div>
